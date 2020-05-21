@@ -11,6 +11,12 @@ const Nag = () => {
                 Profession  : trainer,
                 Address     : chennai
            </pre>
+           <pre>
+                Name        : Nitish,
+                Tech        : java,javascript,
+                Profession  : Intern,
+                Address     : Jharkhand
+           </pre>
         </div>
     );
 };
